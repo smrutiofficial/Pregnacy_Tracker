@@ -9,6 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.10+1
 
 dev_dependencies:
   flutter_test:
@@ -28,4 +29,9 @@ flutter:
 
   assets:
       - assets/pre.png
+      - assets/pizza.svg
+      - assets/Group.svg
+      - assets/food.svg
+      - assets/medicine.svg
+      - assets/pngegg.png
  

@@ -186,7 +186,7 @@ class WelcomeMessage extends StatelessWidget {
               },
               child: Text(selectedDate != null
                   ? DateFormat('d MMM yyyy').format(selectedDate!)
-                  : 'Select Date'),
+                  : 'Select Date',style: TextStyle(color: Colors.white),),
             ),
             if (dueDate != null)
               Container(

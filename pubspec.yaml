@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  intl: ^0.17.0
+  intl: ^0.19.0
   flutter_launcher_icons: "^0.13.1"
   shared_preferences: ^2.0.8
 
@@ -33,5 +33,8 @@ flutter:
       - assets/Group.svg
       - assets/food.svg
       - assets/medicine.svg
+      - assets/self_improvement.svg
+      - assets/path2.svg
+      - assets/weight.svg
       - assets/pngegg.png
  
